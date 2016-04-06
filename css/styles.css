@@ -1,6 +1,8 @@
 html, body {
 	margin: 0;
-	background-color: pink;
+	background-color: #fff;
+	height: 100%;
+
 }
 
 nav {
@@ -76,3 +78,37 @@ nav ul {
 #second-nav li {
 	margin-bottom: 7px;
 }
+
+#content {
+	padding-left: 250px;
+	width: 595px;
+	height: 100%;
+	background-color: #fff;	
+	font-family: 'Open Sans', sans-serif;
+}
+
+#content aside img {
+	margin: 10px 0;
+}
+#content aside p {
+	background-color: #f3f3f3;
+	padding: 15px 20px;
+	font-size: 14px;
+	color: #333;
+}
+#content aside p a {
+	text-decoration: none;
+	color: #333;
+}
+article {
+	margin-top: 25px;
+	border-top: 1px solid #ddd;
+	color: #343434;
+}
+article img {
+	max-width: 100%;
+}
+
+
+
+
