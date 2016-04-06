@@ -193,3 +193,33 @@ article img {
 	display: block;
 	clear: both;
 }
+
+#side {
+	background-color: #f3f3f3;
+	position: relative;
+	left: 870px;
+	top: -755px;
+}
+
+#social {
+	background-color: #E5005F;
+	height: 120px;
+	width: 100%;
+}
+#social a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 30px;
+	padding: 15px;
+	text-align: right;
+	background-color: pink
+}
+
+
+
+
+
+
+
+
+
